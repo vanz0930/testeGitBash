@@ -1,6 +1,6 @@
 # WELCOME
-\n[Welcome to git tests]
-$Welcome
+> [Welcome to git tests]
+$Welcome :+1:
 %Welcome
 &Welcome
 *welcome
