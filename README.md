@@ -1,7 +1,9 @@
 # WELCOME
 > [Welcome to git tests]
 $Welcome :+1:
-%Welcome
-&Welcome
-*welcome
-(Wlcome)
+### Test Ruby code
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
