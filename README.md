@@ -1,4 +1,4 @@
-#WELCOME
+# WELCOME
 \n[Welcome to git tests]
 $Welcome
 %Welcome
