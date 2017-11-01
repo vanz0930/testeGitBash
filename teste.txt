@@ -1,4 +1,0 @@
-test using git bash on windows
-
-
-teste
