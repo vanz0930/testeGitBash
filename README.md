@@ -1,6 +1,6 @@
 # WELCOME  
-> [Welcome to git tests]
-$Welcome :+1:
+> [Welcome to git tests]  
+$Welcome  :+1:
 ### Test Ruby code
 ```ruby
 require 'redcarpet'
