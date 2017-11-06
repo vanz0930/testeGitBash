@@ -24,7 +24,8 @@ if (x)
     window.alert("Thank you.")
 else
     window.alert("Good choice.")
-```  
+```
+#### Test C code
 ```c
 printf("hello world");
 ```
