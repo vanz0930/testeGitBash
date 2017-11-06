@@ -8,7 +8,8 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 03/11/2017  
-06/11/2017
+06/11/2017  
+### Test Java Code
 ```java
 public class HelloWorld
 {
@@ -17,3 +18,13 @@ public class HelloWorld
 	}
 }
 ```
+
+### Test JS code
+```javascript
+var x=window.confirm("Are you sure you want to quit")
+
+if (x)
+    window.alert("Thank you.")
+else
+    window.alert("Good choice.")
+```    
