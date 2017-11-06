@@ -24,4 +24,7 @@ if (x)
     window.alert("Thank you.")
 else
     window.alert("Good choice.")
-```    
+```  
+```c
+printf("hello world");
+```
