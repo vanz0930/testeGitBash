@@ -25,7 +25,7 @@ if (x)
 else
     window.alert("Good choice.")
 ```
-#### Test C code
+### Test C code
 ```c
 printf("hello world");
 ```
