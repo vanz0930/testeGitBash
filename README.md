@@ -1,4 +1,4 @@
-# WELCOME :+1:
+# WELCOME :arrow_heading_down:
 
 ## What this document contains:
 
