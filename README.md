@@ -6,13 +6,14 @@
 - [x] Nothing useful
 - [ ] Don't know what to put here
 
+> Last update: 10/11/17
+
 ### Test Ruby code
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```  
-> 06/11/2017  
 ### Test Java Code
 ```java
 public class HelloWorld
