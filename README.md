@@ -1,4 +1,11 @@
 # WELCOME :+1:
+
+## What this document contains:
+
+- [x] Some code of various programming languages
+- [x] Nothing useful
+- [ ] Don't know what to put here
+
 ### Test Ruby code
 ```ruby
 require 'redcarpet'
