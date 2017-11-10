@@ -30,13 +30,10 @@ else
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int main ()
-
 {
 	int capmax, codigo, lugdisp, entrou, saiu;
-	char decisao;
-	
+	char decisao;	
 	capmax = 10;
 	entrou = 0;
 	saiu = 0;
@@ -46,7 +43,7 @@ int main ()
 	scanf ("%d", &codigo);
 	
 	while (codigo != 0){
-    
+	
     	switch (codigo) {
     		case 1:
     		if (lugdisp != 0){
@@ -126,19 +123,7 @@ int main ()
 			scanf ("%d", &codigo);
 			break;
     	}
-	}
-    //printf ("Deseja encerrar o programa? \n");
-    //scanf ("%ch", decisao);
-	//if (decisao == 'N'){
-	//fflush(stdin);
-	//printf ("Insira o codigo da operacao: ");
-	//scanf ("%d", &codigo);
-	//}
-	//else {
-	//system ("pause");
-    //return 0; // encerra o programa
-	//}
-	    
+	}    
 	system ("pause");
     return 0; // encerra o programa
 	
