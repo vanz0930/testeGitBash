@@ -126,7 +126,6 @@ int main ()
 	}    
 	system ("pause");
     return 0; // encerra o programa
-	
 }
 
 ```
